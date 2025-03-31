@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Public Speaking and Guest Lecture at BITS Pilani, for delivering guest lectures for M.Tech Students!",
+    "imageSrc": "projects/apple.jpg",
+    "description": "Basics of LTE and Wireless telecommunications! ",
+    "source": "https://drive.google.com/file/d/18q2_E8mvLVp6tOy3wb-IytA7952fIJ3-/view?usp=sharing"
+  },
+  {
+    "title": "Innovation Award",
+    "imageSrc": "projects/apple.jpg",
+    "description": "Stealth-mode hardware innovation - pioneering undisclosed technology."
+  },
+  {
+    "title": "Rising Star Award",
+    "imageSrc": "projects/broadcom.png",
+    "description": "For Bring up of Broadcom’s first ever LTE modem and evaluating the product at highest quality!"
+  },
+  {
+    "title": "Touch input device and keyboard device for electronic devices",
+    "imageSrc": "projects/apple.jpg",
+    "description": "A keyboard with magnetic attachment to a touchpad, enabling wireless charging for devices placed on its surface. The system uses inductive power transfer to charge both the touchpad and any compatible device resting on it.",
+    "source": "https://patents.google.com/patent/US10642385B1"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "role": "Head of Southeast Asia and India, Carrier Engineering and Product Management",
+    "organisation": "Google",
+    "startDate": "January, 2021",
+    "endDate": "Present",
+    "experiences": ["Expanding Pixel in SEA/India via carrier partnerships and tech innovation. Enhancing product features and launch execution for optimal market impact."],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Senior Manager",
+    "organisation": "Amazon Lab126",
+    "startDate": "January, 2020",
+    "endDate": "January, 2021",
+    "experiences": ["Leading and making an impact at Amazon Lab126 with FireTV edition and hardware initiatives.", " Enabling the launch of NPI programs from conception until shelves."],
+    "imageSrc": "history/Amazon.jpeg"
+  },
+  {
+    "role": "Regional Head",
+    "organisation": "MediaTek",
+    "startDate": "November, 2018",
+    "endDate": "June, 2019",
+    "experiences": [
+      "APAC engineering director managing carrier/OEM technical relationships, device certifications, and 3GPP feature adoption while resolving network-chipset issues."
+    ],
+    "imageSrc": "history/MediaTek.png"
+  },
+  {
+    "role": "Engineering Manager",
+    "organisation": "Apple",
+    "startDate": "August, 2017",
+    "endDate": "November, 2018",
+    "experiences": [
+      "Spearheaded some “ultra-confidential” projects, driving the integration of cutting-edge technologies into Apple ecosystem. ", "Managed sub-projects into realization and demonstrated the prototype to C-suite people at Apple."
+    ],
+    "imageSrc": "history/apple.jpg"
+  },
+  {
+    "role": "Test Engineer Manager",
+    "organisation": "Samsung Electronics",
+    "startDate": "November, 2013",
+    "endDate": "August, 2014",
+    "experiences": [
+      "Leading IOT test team to verify LTE release 10 and NG features with LTE chipsets and handsets."," Expertise in VoLTE, SPS, CQI, TPC, QoS, Carrier Aggregation, CSFB, SRVCC, so on. "
+    ],
+    "imageSrc": "history/samsung.jpeg"
+  },
+  {
+    "role": "Principal Engineer",
+    "organisation": "Broadcom",
+    "startDate": "August, 2011",
+    "endDate": "November, 2013",
+    "experiences": [
+      "Integrated and delivered the first Trimode thin modem chipset which supports LTE, UMTS and GSM technology including VoLTE.", " Led the optimization team to improve the performance of the cellular modem through unique solutions","LTE Software Integration: Lead LTE firmware and software integration activities and evaluation of 3GPP release 9/10 features. Hands-on experience in verification of GCF/ PTCRB certification and Radio Conformance at Operator Labs."
+    ],
+    "imageSrc": "history/broadcom.png"
+  },
+  {
+    "role": "Senior Systems Engineer",
+    "organisation": "Cisco",
+    "startDate": "May, 2006",
+    "endDate": "June, 2009",
+    "experiences": [
+      "Systems test engineer of Mobile Wi-Max IOT, PCT, Extended Range, HO and HO+ Security test case validation.","Responsible for replication of throughput/performance related issues with BS and MS both in the lab and in the field.","Evaluated 1st ever WiMax Mobility HO scenario with Security in real world with Multiple Mobile Stations. Developed Extended Range test suite, which extends RF coverage by tuning TTG/RTG durations in the radio frame."
+    ],
+    "imageSrc": "history/cisco.jpeg"
+  },
+  {
+    "role": "Wireless Systems and UAT Engineer",
+    "organisation": "ZTE Corporation",
+    "startDate": "May, 2004",
+    "endDate": "June, 2006",
+    "experiences": [
+      "Accountable for RAN and EvDO user acceptance validation at client sites like Reliance InfoComm and BSNL.","Commissioning and configuration of RAN and CN equipments. Execution of Packet Data test and Data related test cases.","Responsible for replication of throughput/performance related issues with BS and MS both in the lab and in the field.","Drive test for Coverage, Handoff and Packet Data related tests."
+    ],
+    "imageSrc": "history/zte.jpeg"
+  }
+]
