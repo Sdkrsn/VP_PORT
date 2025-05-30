@@ -21,11 +21,11 @@ export const Hero = () => {
           transition={{ delay: 0.5, duration: 1 }}
           className={styles.description}
         >
-         I lead Google's Pixel Carrier Engineering for Southeast Asia and India, with 20 years of experience in tech innovation. My expertise spans 5G, UWB, and SatCom, and I've contributed to products like Pixel, iPhone, and Apple Watch. Passionate about pushing boundaries in tech, I thrive on solving complex challenges and mentoring teams to build cutting-edge solutions.
+         lead Google's Pixel Carrier Engineering for Southeast Asia and India, with 20 years of experience in tech innovation. My expertise spans 5G, UWB, and SatCom, and I've contributed to products like Pixel, iPhone, and Apple Watch. Passionate about pushing boundaries in tech, I thrive on solving complex challenges and mentoring teams to build cutting-edge solutions.
         </motion.p>
         <motion.a
-          href="/Sid_resume.pdf"
-          download="Siddharth_Resume"
+          href="/Surendar VP Resume.pdf"
+          download="Surendar VP Resume"
           className={styles.contactBtn}
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}

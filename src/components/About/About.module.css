@@ -89,4 +89,31 @@
     padding-left: 0;
     padding-right: 0;
   }
+  .aboutDescription {
+    margin-top: 2rem;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  .aboutDescription ul {
+    margin-top: 0.5rem;
+    padding-left: 1.2rem;
+  }
+  .aboutDescription a {
+    color: #0073e6;
+    text-decoration: underline;
+  }
+  .headingWithContent {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+  }
+  
+  .headingWithContent h3 {
+    margin: 0;
+    white-space: nowrap;
+  }
+  
+  .headingWithContent p {
+    margin: 0;
+  }
 }
