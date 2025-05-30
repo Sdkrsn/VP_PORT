@@ -74,5 +74,15 @@
       "Accountable for RAN and EvDO user acceptance validation at client sites like Reliance InfoComm and BSNL.","Commissioning and configuration of RAN and CN equipments. Execution of Packet Data test and Data related test cases.","Responsible for replication of throughput/performance related issues with BS and MS both in the lab and in the field.","Drive test for Coverage, Handoff and Packet Data related tests."
     ],
     "imageSrc": "history/zte.jpeg"
+  },
+  {
+    "role": "Founder",
+    "organisation": "Pansaas",
+    "startDate": "June, 2018",
+    "endDate": "Present",
+    "experiences": [
+      "PanSas Corp is a multi-industry conglomerate with interests in franchising, real estate, angel investments, and AI-driven technology solutions.","Currently focused on developing AI-powered platforms that enhance customer engagement and drive digital transformation across industries."
+    ],
+    "imageSrc": "history/pansaas.jpg"
   }
 ]
